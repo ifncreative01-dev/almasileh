@@ -1,0 +1,6 @@
+{
+  "name": "e-Masileh",
+  "description": "Rekap Tabungan Digital Masileh - Modern, clean, and professional Islamic community savings management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
